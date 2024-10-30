@@ -1,6 +1,6 @@
 
 
-<h1>It works on my machine</h1>  
+<h1>Professional Error Generator</h1>  
 <div align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam42eDJqcThrbDU1dDFocHpsYWFkMTVoYWZjbGY1ZTVsMGp2ZDB5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJG93okDlbbMSWreuz/giphy.gif" align="center" style="width: 100 height: 100" />
 </div>  
