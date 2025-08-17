@@ -1,4 +1,3 @@
-## Professional Error Generator
 <p align="center">
   <img src="w.png" alt="yipeee"/>
 </p>
