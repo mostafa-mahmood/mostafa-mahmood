@@ -1,64 +1,47 @@
-## Professional Error Generator
+### Professional Error Generator
+<p align="center">
+  <img src="w.png" alt="yipeee"/>
+</p>
 
-<br/>
-
-<div align="center">
-    <img src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif" align="center" style="width: 100%" />
-</div>
-
-<div align="center">
-    Currently pursuing a degree in Computer Science, with a focus on software development.  
-    Aspiring to advance my career as a backend engineer.
-</div>
+#### Currently pursuing a degree in Computer Science, with a focus on software development, Aspiring to advance my career as a backend engineer.
 
 ---
-### 🛠️ Tech Stack & Tools:
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-    </a>
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="45" height="45"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="45" height="45"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"             height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/>
-    </a>
+#### Languages & Frameworks:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,go,bash,nodejs,express,nestjs" />
+  </a>
+</p>
+
+#### DBMS:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis" />
+  </a>
+</p>
+
+#### Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,jest,npm" />
+  </a>
 </p>
 
 ---
-### 💬 Connect with me:
+### Connect with me:
 <p align="center">
-    <a href="https://www.linkedin.com/in/mostafa-mahmoud2004" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://discord.com/users/926510960141811812" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="45" width="55" />
-    </a>
-    <a href="https://twitter.com/_firenze___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"             alt="_firenze___" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mostafa-mahmoud2004" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/_firenze___" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter.png" alt="X"/>
+  </a>
+  <a href="https://discord.com/users/926510960141811812" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
+  </a>
+  <a href="https://www.reddit.com/user/United-Belt-7407" target="_blank">
+    <img src="https://img.icons8.com/color/48/reddit.png" alt="Reddit"/>
+  </a>
 </p>
+
 <img src="https://komarev.com/ghpvc/?username=mostafa-mahmood" width="0" height="0" />
