@@ -46,6 +46,9 @@
   <a href="https://www.reddit.com/user/United-Belt-7407" target="_blank">
     <img src="reddit.svg" alt="Reddit"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/mm_khedr" target="_blank">
+    <img src="telegram.svg" alt="Reddit"/>
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mostafa-mahmood" width="0" height="0" />
