@@ -3,24 +3,24 @@
   <img src="w.png" alt="yipeee"/>
 </p>
 
-#### Currently pursuing a degree in Computer Science, with a focus on software development, Aspiring to advance my career as a backend engineer.
+### Currently pursuing a degree in Computer Science, with a focus on software development, Aspiring to advance my career as a backend engineer.
 
 ---
-#### Languages & Frameworks:
+### Languages & Frameworks:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,bash,nodejs,express,nestjs" />
   </a>
 </p>
 
-#### DBMS:
+### Databases:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis" />
   </a>
 </p>
 
-#### Tools:
+### Tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,jest,npm" />
@@ -33,7 +33,7 @@
 
 ---
 ### Connect with me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud2004" target="_blank">
     <img src="linkedin.svg" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
