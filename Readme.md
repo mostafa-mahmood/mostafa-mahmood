@@ -31,16 +31,16 @@
 ### Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud2004" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+    <img src="linkedin.svg" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/_firenze___" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter.png" alt="X"/>
+    <img src="twitter.svg" alt="twitter"/>
   </a>
   <a href="https://discord.com/users/926510960141811812" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord"/>
+    <img src="discord.svg" alt="Discord"/>
   </a>
   <a href="https://www.reddit.com/user/United-Belt-7407" target="_blank">
-    <img src="https://img.icons8.com/color/48/reddit.png" alt="Reddit"/>
+    <img src="reddit.svg" alt="Reddit"/>
   </a>
 </p>
 
