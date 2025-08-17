@@ -28,20 +28,24 @@
 </p>
 
 ---
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-mahmood&layout=compact&theme=radical)
+
+---
 ### Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-mahmoud2004" target="_blank">
     <img src="linkedin.svg" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/_firenze___" target="_blank">
     <img src="twitter.svg" alt="twitter"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/926510960141811812" target="_blank">
     <img src="discord.svg" alt="Discord"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.reddit.com/user/United-Belt-7407" target="_blank">
     <img src="reddit.svg" alt="Reddit"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=mostafa-mahmood" width="0" height="0" />
