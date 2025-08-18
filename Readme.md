@@ -5,26 +5,72 @@
 ### Currently pursuing a degree in Computer Science, with a focus on software development, Aspiring to advance my career as a backend engineer.
 
 ---
+<!-- Languages & Frameworks -->
 ### Languages & Frameworks:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,bash,nodejs,express,nestjs" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
   </a>
 </p>
 
+<!-- Databases -->
 ### Databases:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis" />
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />
   </a>
 </p>
 
+<!-- Tools -->
 ### Tools:
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,nginx,postman,jest,npm" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
   </a>
 </p>
+
 
 ---
 ### Most Used Languages
