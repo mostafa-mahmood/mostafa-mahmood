@@ -73,8 +73,8 @@
 
 
 ---
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-mahmood&layout=compact&theme=radical)
+### Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-mahmood)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Connect with me:
