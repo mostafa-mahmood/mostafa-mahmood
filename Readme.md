@@ -71,29 +71,20 @@
   </a>
 </p>
 
-
 ---
-### Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-mahmood)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ### Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/mostafa-mahmoud2004" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafa-mhmood" target="_blank">
     <img src="linkedin.svg" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/_firenze___" target="_blank">
+  <a href="https://x.com/khedr_mm" target="_blank">
     <img src="twitter.svg" alt="twitter"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/926510960141811812" target="_blank">
     <img src="discord.svg" alt="Discord"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/United-Belt-7407" target="_blank">
-    <img src="reddit.svg" alt="Reddit"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/mm_khedr" target="_blank">
     <img src="telegram.svg" alt="Reddit"/>
   </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=mostafa-mahmood" width="0" height="0" />
